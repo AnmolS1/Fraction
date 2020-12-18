@@ -12,10 +12,10 @@ new Fraction (int numerator, int denominator)
 Methods
 -------
 ```java
-add (Fraction f)      // returns new Fraction
-subtract (Fraction f) // returns new Fraction
-multiply (Fraction f) // returns new Fraction
-divide (Fraction f)   // returns new Fraction
+Fraction add (Fraction f)
+Fraction subtract (Fraction f)
+Fraction multiply (Fraction f)
+Fraction divide (Fraction f)
 
-simplify () // void method
+void simplify ()
 ```
