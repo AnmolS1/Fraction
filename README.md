@@ -5,6 +5,7 @@ This class is pretty basic for now, I'll keep adding to it as I come up with mor
 Instantiation
 -------------
 ```java
+new Fraction (int numerator) // auto-sets denominator to 1
 new Fraction (int numerator, int denominator)
 ````
 
