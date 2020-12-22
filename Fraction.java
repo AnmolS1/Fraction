@@ -88,7 +88,7 @@ class Fraction {
 	}
 	
 	// basic euclidean algorithm for GCD
-	private int GCD (int denominator_1, int denominator_1) {
+	private int GCD (int denominator_1, int denominator_2) {
 		if (denominator_1 == 0) return denominator_2;
 		return GCD(denominator_2 % denominator_1, denominator_1);
 	}
