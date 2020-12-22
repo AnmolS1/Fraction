@@ -1,6 +1,6 @@
 # Fraction
 
-This class is pretty basic for now, I'll keep adding to it as I come up with more things. Enjoy!
+This class is pretty basic for now, I'll keep adding to it as I come up with more things. Hope it helps anyone looking for something like this. Enjoy!
 
 Instantiation
 -------------
